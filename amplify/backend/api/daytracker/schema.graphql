@@ -1,0 +1,10 @@
+type ProgressWindow @model @auth(rules: [{ allow: owner }]) {                                        
+    id: ID!                                                                                            
+    owner: String!
+    name: String!                                                                                      
+    notes: String                                                                                      
+    tags: [String]                                                                                     
+    goalCategory: String                                                                               
+    weeklyTarget: Int                                                                                  
+    entries: String                                                                                    
+  }

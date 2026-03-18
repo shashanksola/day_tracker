@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-daytracker-dev-e3bb8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::712839680875:role/amplify-daytracker-dev-e3bb8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::712839680875:role/amplify-daytracker-dev-e3bb8-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-daytracker-dev-e3bb8-deployment",
+      "UnauthRoleName": "amplify-daytracker-dev-e3bb8-unauthRole",
+      "StackName": "amplify-daytracker-dev-e3bb8",
+      "StackId": "arn:aws:cloudformation:ap-south-1:712839680875:stack/amplify-daytracker-dev-e3bb8/af21e710-21c3-11f1-b17c-0a9560db725b",
+      "AmplifyAppId": "dbrnzxnmq4o9h"
+    },
+    "categories": {
+      "auth": {
+        "daytracker1538c456": {}
+      },
+      "api": {
+        "daytracker": {}
+      }
+    }
+  }
+}

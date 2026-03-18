@@ -1,4 +1,4 @@
-package com.example.day_tracker
+package com.streaksheet.app
 
 import io.flutter.embedding.android.FlutterActivity
 
